@@ -14,6 +14,7 @@ Available data:
   - Step 4: Build an analysis to identify the reason for cancellation
   - Step 5: Identify the reason or main reasons for customers to cancel their credit card
 
+
 **In Portuguese**
 ## Problema de negócio:
 Um dos diretores da empresa de Cartão de Crédito percebeu que o número de clientes que cancelam seus cartões tem aumentado significativamente, causando prejuízos enormes para a empresa
